@@ -1,9 +1,6 @@
 ---
 layout: about
 title: About
-description: >
-  Hi! I'm Connie, a bioengineer, dancer, and data enthusiast. 
-  Welcome to my data playground! 
 menu: true
 order: 4
 ---

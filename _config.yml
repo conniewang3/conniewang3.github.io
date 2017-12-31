@@ -96,7 +96,7 @@ paginate_path:         /page-:num/
 
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar.jpg
-accent_color:          '#4fb1ba'
+accent_color:          '#a47f0e'
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://qwtel.com/hydejack/docs/configuration/>

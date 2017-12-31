@@ -8,12 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Connie Wang is a twenty-something Bay Area resident with too many hobbies and curiosities. 
-    Currently, she works as a data analyst at Q&A Research.
-    She received a B.S. in Bioengineering and a B.S. in Business, Economics, and Management from Caltech in 2014. 
-    After being introduced to the Bay Area via an undergraduate summer fellowship at the SENS Research Foundation in Mountain View, she fell deeply in love with NorCal and stubbornly applied only to graduate programs in NorCal. 
-    She worked under Katherine Ferrara at UC Davis, and received her M.S. in Biomedical Engineering in 2017.
-    While her fascination with biomedical science continues, she's itching to learn something new, and currently pursuing knowledge in the field of data science.
+    Hi! I’m Connie, a bioengineer, dancer, and data enthusiast. Welcome to my data playground!
 
   # This photo will be used in the about section
   picture:
