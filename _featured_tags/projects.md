@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Projects
-slug: hyde
+slug: projects
 menu: false
 order: 1
 description: >
