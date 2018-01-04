@@ -2,6 +2,7 @@
 layout: post
 title: WSDC Project Part 1: 2018 Rule Change
 ---
+## **WSDC Project Part 1: 2018 Rule Change**
 
 ## **Introduction**
 Saying that West Coast Swing is my primary hobby might be an
