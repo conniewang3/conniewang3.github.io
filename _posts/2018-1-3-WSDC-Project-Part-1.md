@@ -3,8 +3,7 @@ layout: post
 title: WSDC Project Part 1: 2018 Rule Change
 ---
 
-**Introduction**
-
+## **Introduction**
 Saying that West Coast Swing is my primary hobby might be an
 understatement at this point -- I dance one or two nights a week, attend
 a convention about once a month, and practice... maybe not as often as I
@@ -34,17 +33,15 @@ here](https://github.com/conniewang3/WSDC-Project/tree/master/part1).
 Shoot me a message -- I'd be happy to buy you lunch/coffee for your
 help, or skilltrade a dance lesson or something.
 
-**TL;DR**
 
+## **TL;DR**
 (AKA the part where I practice Tableau dashboarding -- try hovering and
 clicking on things!)
 <iframe src="https://public.tableau.com/views/WSDCProjectPart1/TLDR?:embed=y&:display_count=yes&publish=yes&:toolbar=no&:showVizHome=no"
  width="810" height="1240" frameBorder="0"></iframe>
 
 ### **West Coast Swing**
-
 #### (A brief primer for anyone reading this who's not already familiar with West Coast Swing)
-
 West Coast Swing (WCS) is a versatile partner dance that emphasizes,
 among other things, the ability to create a dance with a partner on the
 spot. There is a competitive aspect of this dance which tests this
@@ -61,8 +58,8 @@ to move up to a higher division, a competitor must earn a certain number
 of points in their division. [The rules for this are outlined
 here.](github.com/conniewang3/WSDC-Project/blob/master/files/rules_new.pdf)
 
-### **Motivation**
 
+### **Motivation**
 Recently, there was a change in the rules, which has sparked a lot of
 discussion especially among more isolated communities, like Asia and
 Australia. Although Europe and the US now have many WCS events per year,
@@ -76,10 +73,10 @@ by the discussion around this change. [The new version of the rules can
 be found
 here.](github.com/conniewang3/WSDC-Project/blob/master/files/rules_new.pdf)
 
-**Results**
+
+## **Results**
 
 ### **Impact of change in All-Star requirements**
-
 Under the old rules, anyone with 45+ Advanced points within the last 3
 years or 1+ All-Star points ever is eligible to compete in All-Star.
 Starting 2018, anyone with 45+ Advanced points or 3+ All-Star points in
@@ -96,7 +93,6 @@ are fewer of these than dancers who haven't gotten a point in 3 years
 because they stopped competing.
 
 #### **How many All-Star dancers will be demoted?**
-
 A total of **76** dancers currently competiting in All-Star will need to
 compete in Advanced starting in 2018 (unless they successfully
 petition).
@@ -136,7 +132,6 @@ All-Star-eligible dancers who will be demoted is different in different
 regions.**
 
 ### **Impact of change in required number of Novice points (from 15 to 16 points)**
-
 Under the old rules, dancers with 15+ Novice points must compete in
 Intermediate. With the rule change, dancers with 16+ Novice points are
 eligible for Intermediate, and dancers with 30+ Novice points must
@@ -155,7 +150,6 @@ point requirement became 15 -- if you have this information, I'd love to
 know!
 
 #### **How many dancers will be "demoted" and how many can now choose to dance down?**
-
 Of people who were previously competing in Intermediate, **157** now
 *must* compete in Novice, and **667** now *have the option* to compete
 in Novice. This represents **9%** and **36%** of current Novice dancers
@@ -211,7 +205,6 @@ For good measure, I also broke down the mean number of Novice events for
 events.
 
 #### **How well do 15-point Novice dancers do in Intermediate?**
-
 I decided to use two metrics for how "ready" a Novice dancer is for
 Intermediate. The first is **time to first Intermediate point**. It
 would be better to use number of competitions until first Intermediate
@@ -289,7 +282,6 @@ the requirement from 15 to 16 points is unlikely to do much, this does
 justify the rule change somewhat.
 
 ### **Community growth in the US and overseas**
-
 One question that's come up in the discussions surrounding the rule
 changes is whether the decisions were made in a US-centric way by a
 board that contains only members who live in the US/don't travel enough.
@@ -299,7 +291,6 @@ international representation. I tried to use WSDC data to see just how
 international the dance has become/is becoming.
 
 #### **Percentage of active competitors by region**
-
 The most direct way to look at growth is to see what percentage of
 active competitors (at least 1 point in the last 2 years) live in each
 region. I'm about 90% sure that I did this in the stupidest possible
@@ -321,7 +312,6 @@ By this measure, international representation on the WSDC board
 certainly seems overdue.
 
 #### **Growth rate of number of dancers by region**
-
 In trying to write this, I discovered that it's more difficult than I
 thought to estimate the absolute number of dancers in a region from the
 points registry data (which can only give you the number of pointed
@@ -366,15 +356,14 @@ than that of the US, and Europe is growing about 16% faster than the US.
 The takeaway is that international representation on WCS decision-making
 boards will be even more important as time goes on.
 
-**Dataset**
 
+## **Dataset**
 Data was scraped from the WSDC website and processed by wsdcscraper.py.
 The Python code generates a .csv file, which was then read into R for
 the rest of the analysis. Only data from dancers with at least 1 Novice
 point were collected.
 
 ### **Variables**
-
 -   id: WSDC ID number
 -   role: Primary role (leader/follower)
 -   region: Estimated region of residence
@@ -390,7 +379,6 @@ The last 6 variables are duplicated for Intermediate (int), Advanced
 (adv), and All-Star (als).
 
 ### **Regions**
-
 Since regional differences were a common theme in the discussions, I
 tried to estimate what region each dancer lives in by looking at where
 the events that they pointed at are located (the logic is that people
