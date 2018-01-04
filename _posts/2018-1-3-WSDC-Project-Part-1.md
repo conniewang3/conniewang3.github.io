@@ -38,7 +38,7 @@ help, and skilltrade a dance lesson or something.
 (AKA the part where I practice Tableau dashboarding -- try hovering and
 clicking on things!)
 <iframe src="https://public.tableau.com/views/WSDCProjectPart1/TLDR?:embed=y&:display_count=yes&publish=yes&:toolbar=no&:showVizHome=no"
- width="810" height="1240" style="-webkit-transform:scale(0.5);-moz-transform-scale(0.5);" frameBorder="0"></iframe>
+ width="810" height="1240" style="-webkit-transform:scale(1);-moz-transform-scale(1);" frameBorder="0"></iframe>
 
 #### **West Coast Swing**
 ##### (A brief primer for anyone reading this who's not already familiar with West Coast Swing)
