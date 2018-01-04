@@ -32,13 +32,13 @@ my code (Python and R both)! [You can find all files used (including the
 version of this page that doesn't hide code chunks)
 here](https://github.com/conniewang3/WSDC-Project/tree/master/part1).
 Shoot me a message -- I'd be happy to buy you lunch/coffee for your
-help, or skilltrade a dance lesson or something.
+help, and skilltrade a dance lesson or something.
 
 ### **TL;DR**
 (AKA the part where I practice Tableau dashboarding -- try hovering and
 clicking on things!)
 <iframe src="https://public.tableau.com/views/WSDCProjectPart1/TLDR?:embed=y&:display_count=yes&publish=yes&:toolbar=no&:showVizHome=no"
- width="100%" height="1240" frameBorder="0"></iframe>
+ width="810" height="1240" style="-webkit-transform:scale(0.5);-moz-transform-scale(0.5);" frameBorder="0"></iframe>
 
 #### **West Coast Swing**
 ##### (A brief primer for anyone reading this who's not already familiar with West Coast Swing)
