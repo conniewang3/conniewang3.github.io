@@ -4,7 +4,6 @@ title: WSDC Project Part 1: 2018 Rule Change
 ---
 
 **Introduction**
-----------------
 
 Saying that West Coast Swing is my primary hobby might be an
 understatement at this point -- I dance one or two nights a week, attend
@@ -36,7 +35,6 @@ Shoot me a message -- I'd be happy to buy you lunch/coffee for your
 help, or skilltrade a dance lesson or something.
 
 **TL;DR**
----------
 
 (AKA the part where I practice Tableau dashboarding -- try hovering and
 clicking on things!)
@@ -79,7 +77,6 @@ be found
 here.](github.com/conniewang3/WSDC-Project/blob/master/files/rules_new.pdf)
 
 **Results**
------------
 
 ### **Impact of change in All-Star requirements**
 
@@ -370,7 +367,6 @@ The takeaway is that international representation on WCS decision-making
 boards will be even more important as time goes on.
 
 **Dataset**
------------
 
 Data was scraped from the WSDC website and processed by wsdcscraper.py.
 The Python code generates a .csv file, which was then read into R for
