@@ -113,7 +113,7 @@ at. Midwest includes Texas, Europe includes Israel, and Other is
 Asia/Australia/NZ/Brazil (more details at the bottom if you're
 interested).
 
-![](Part1_publish_files/figure-markdown_strict/als_byregion-1.png) There
+![](conniewang3.github.io/assets/img/WSDC-part-1/als_byregion-1.png) There
 is definitely some regional variation here -- it looks like a relatively
 larger portion of current All-Stars will be demoted in the East Coast
 and Midwest regions (error bars show standard error).
@@ -173,7 +173,7 @@ region, taken as a percentage of total Novice grads. This is meant to
 give a measure of how much the rule change will impact each region going
 forward.
 
-![](Part1_publish_files/figure-markdown_strict/nov_byregion-1.png)
+![](conniewang3.github.io/assets/img/WSDC-part-1/nov_byregion-1.png)
 
     ## # A tibble: 5 x 2
     ##       region   avg
@@ -229,7 +229,7 @@ Choosing good metrics is hard :(
 
 I also broke down results by region, to account for any variation there.
 
-![](Part1_publish_files/figure-markdown_strict/nov_readiness_time-1.png)
+![](conniewang3.github.io/assets/img/WSDC-part-1/nov_readiness_time-1.png)
 
     ##   15 Points  16+ Points     p-value 
     ## 7.133333333 5.100000000 0.007491008
@@ -246,7 +246,7 @@ how much does that really matter?
 pretty skewed across all regions, hence I've used medians and
 nonparametric hypothesis testing\]
 
-![](Part1_publish_files/figure-markdown_strict/nov_readiness_ratio-1.png)
+![](conniewang3.github.io/assets/img/WSDC-part-1/nov_readiness_ratio-1.png)
 
     ## $`East Coast`
     ## [1] 0.6172493
@@ -294,7 +294,7 @@ active competitors (at least 1 point in the last 2 years) live in each
 region. I'm about 90% sure that I did this in the stupidest possible
 way, but hey, the plots work so I think that deserves partial credit.
 
-![](Part1_publish_files/figure-markdown_strict/percent_byregion-1.png)
+![](conniewang3.github.io/assets/img/WSDC-part-1/percent_byregion-1.png)
 
 The share of competitors living in each of the 3 regions of the US (East
 Coast, Midwest, West Coast) has shrunk slightly since 2013, while the
@@ -323,7 +323,7 @@ in each region in 2014-2018 (using eventregions.py) and divide the
 number of competitors by that quantity. This is used as a proxy that
 depends much less on number of events and size of events in the region.
 
-![](Part1_publish_files/figure-markdown_strict/count_byregion-1.png)
+![](conniewang3.github.io/assets/img/WSDC-part-1/count_byregion-1.png)
 
 (Dotted line shows actual data; solid line shows linear fit. By
 "in-region record", I mean "instance where an event in that region
