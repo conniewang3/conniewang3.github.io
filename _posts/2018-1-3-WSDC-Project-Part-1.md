@@ -26,8 +26,13 @@ Intermediate points
 points and no Intermediate points
 3. When comparing those with 15 Novice points and those with more than 15 
 Novice points, the difference in how often they place 1st-5th at a tier 3 or 
-1st-3rd at a tier 2 in Intermediate is reduced. The p-value in the other region 
-is now 0.068. All regions still trend in the same direction as they did before.
+1st-3rd at a tier 2 in Intermediate is reduced. The p-value in the other 
+region is now 0.068. All regions still trend in the same direction as they did 
+before.
+4. When comparing those with 15 Novice points and those with more than 15 
+Novice points, the difference in how long it takes to get the first 
+Intermediate point is still as significant but reduced in magnitude -- only 
+one month now.
 
 It was also pointed out to me many times that Novices with 15 points currently 
 (that they earned prior to 2018) would be "grandfathered in" -- if you are one 
@@ -67,9 +72,9 @@ help, and skilltrade a dance lesson or something.
 
 ### **TL;DR**
 (AKA the part where I practice Tableau dashboarding -- try hovering and
-clicking on things! Sorry it loads slowly and also is not mobile-friendly. I tried really hard to fix it, I swear.)
+clicking on things! Still trying to figure out how to make it mobile friendly...)
 <iframe src="https://public.tableau.com/views/WSDCProjectPart1/TLDR?:embed=y&:display_count=yes&publish=yes&:toolbar=no&:showVizHome=no"
- width="810" height="1240" style="-webkit-transform:scale(0.7);-moz-transform-scale(0.7);" frameBorder="0"></iframe>
+ width="810" height="1240" frameBorder="0"></iframe>
 
 #### **West Coast Swing**
 ##### (A brief primer for anyone reading this who's not already familiar with West Coast Swing)
@@ -260,14 +265,14 @@ I also broke down results by region, to account for any variation there.
 ![672x480](https://conniewang3.github.io/assets/img/WSDC-part-1/nov_readiness_time-1.png)
 
     ##   15 Points  16+ Points     p-value 
-    ##     7.10        5.10        0.00339
+    ##     6.13        5.10        0.00152
 
 Because the medians of each region are comparable to each other, I
 decided to look at combined data from all the regions. Across regions,
 we find >99% confidence that dancers with exactly 15 Novice points **take
 longer on average to get their first Intermediate point**.
 
-On the other hand, the difference in medians is only about 2 months, so
+On the other hand, the difference in medians is only about 1 month, so
 how much does that really matter?
 
 \[Stats note: quick histograms of the data (not shown) revealed it's
@@ -277,35 +282,34 @@ nonparametric hypothesis testing\]
 ![672x480](https://conniewang3.github.io/assets/img/WSDC-part-1/nov_readiness_ratio-1.png)
 
     ## $`East Coast`
-    ## [1] 0.8208
+    ## [1] 0.8075362
     ## 
     ## $Europe
-    ## [1] 0.1490
+    ## [1] 0.09338434
     ## 
     ## $Midwest
-    ## [1] 0.8736
+    ## [1] 0.973868
     ## 
     ## $Other
-    ## [1] 0.0677
+    ## [1] 0.1248829
     ## 
     ## $`West Coast`
-    ## [1] 0.2218
+    ## [1] 0.68068
 
-Well, it looks like the low incidence of placing 1st-5th at a tier 3 or
-1st-3rd at a tier 2 has maybe come back to bite us -- this data is
-decidedly not as pretty.
+Well, it looks like the low incidence of placing 1st-5th at a tier 3 or 
+1st-3rd at a tier 2 has maybe come back to bite us -- this data is decidedly 
+not as pretty. Error bars aren't shown, but the quartiles are quite large.
 
-Significance testing by region, we see a 93% confidence that dancers in the 
-Other region (Asia/Australia/Brazil) with exactly 15 Novice points **place 
-less frequently in Intermediate**. The is also the trend in 3 of the other 
-4 regions (East Coast, Europe, Midwest), although the differences there
-are less significant.
+As a result, we don't find significant differences by this metric --
+we see a 91% confidence that dancers in Europe and 88% confidence in the Other 
+region (Asia/Australia/Brazil) that those with exactly 15 Novice points place 
+less frequently in Intermediate. 
 
-Combining the two metrics, there is some evidence that Novice dancers
-with exactly 15 points do slightly worse in Intermediate than those with
-more than 15 points. Although it's not a large difference, and changing
-the requirement from 15 to 16 points is unlikely to do much, this does
-justify the rule change somewhat.
+Regardless, combining the two metrics, there is some evidence that Novice 
+dancers with exactly 15 points do slightly worse in Intermediate than those 
+with more than 15 points. Although it's not a large difference, and changing 
+the requirement from 15 to 16 points is unlikely to do much, this does justify 
+the rule change somewhat.
 
 #### **Community growth in the US and overseas**
 One question that's come up in the discussions surrounding the rule
