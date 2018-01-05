@@ -1,6 +1,8 @@
 ---
 layout: post
-title: WSDC Project Part 1: 2018 Rule Change
+title: test
+menu: false
+order: 3
 ---
 ## **WSDC Project Part 1: 2018 Rule Change**
 
@@ -68,8 +70,26 @@ help, and skilltrade a dance lesson or something.
 ### **TL;DR**
 (AKA the part where I practice Tableau dashboarding -- try hovering and
 clicking on things!)
-<iframe src="https://public.tableau.com/views/WSDCProjectPart1/TLDR?:embed=y&:display_count=yes&publish=yes&:toolbar=no&:showVizHome=no"
- width="810" height="1240" style="-webkit-transform:scale(1);-moz-transform-scale(1);" frameBorder="0"></iframe>
+<script src="https://public.tableau.com/views/WSDCProjectPart1/TLDR?:embed=y&:display_count=yes&publish=yes&:toolbar=no&:showVizHome=no"></script>
+<script>
+$(function() {
+    $("#wrapper").each(function() {
+        var $wrap = $(this);
+        function iframeScaler(){
+            var wrapWidth = $wrap.width(); // width of the wrapper
+            var wrapHeight = $wrap.height();
+            var childWidth = $wrap.children("iframe").width(810); // width of child iframe
+            var childHeight = $wrap.children("iframe").height(1240); // child height
+            var wScale = wrapWidth / childWidth;
+            var hScale = wrapHeight / childHeight;
+            var scale = Math.min(wScale,hScale);  // get the lowest ratio
+            $wrap.children("iframe").css({"transform": "scale("+scale+")", "transform-origin": "left top", "frameBorder": "0" });  // set scale
+        };
+        $(window).on("resize", iframeScaler);
+        $(document).ready( iframeScaler);
+    });
+});
+</script>
 
 #### **West Coast Swing**
 ##### (A brief primer for anyone reading this who's not already familiar with West Coast Swing)
