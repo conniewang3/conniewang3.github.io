@@ -8,11 +8,11 @@ title: WSDC Project Part 1: 2018 Rule Change
 Hi! After I posted, two things were pointed out to me that changed the results 
 a little:
 
-1. Many people start in Newcomer. I changed my filter from collecting only 
+1. Some people start in Newcomer. I changed my filter from collecting only 
 those with at least one Novice point to collecting those with at least one 
 Novice or Newcomer point. I also changed my time-by-region graphs to look at 
 date of first record (whether Newcomer or Novice, where before the first 
-record was necessarily Novice)
+record was necessarily Novice) -- this ended up not affecting anything.
 2. The rule change that modified required Novice points from 20 to 15 happened 
 at the start of 2012. I changed the filter in the section that looks at 
 Novices to include data from 2012 onwards.
@@ -24,15 +24,7 @@ different:
 Intermediate points
 2. 38% of current Intermediate points (not 50%) have between 15 and 30 Novice 
 points and no Intermediate points
-3. When comparing those with 15 Novice points and those with more than 15 
-Novice points, the difference in how often they place 1st-5th at a tier 3 or 
-1st-3rd at a tier 2 in Intermediate is reduced. The p-value in the other 
-region is now 0.068. All regions still trend in the same direction as they did 
-before.
-4. When comparing those with 15 Novice points and those with more than 15 
-Novice points, the difference in how long it takes to get the first 
-Intermediate point is still as significant but reduced in magnitude -- only 
-one month now.
+3. The difference between how well dancers with exactly 15 or more than 15 Novice points do is reduced. 
 
 It was also pointed out to me many times that Novices with 15 points currently 
 (that they earned prior to 2018) would be "grandfathered in" -- if you are one 
