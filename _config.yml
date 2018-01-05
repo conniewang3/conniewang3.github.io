@@ -292,3 +292,5 @@ sass:
 # feed:
 #   path:                atom.xml
 markdown: kramdown
+
+timezone: America/Tijuana
