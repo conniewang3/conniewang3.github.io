@@ -22,11 +22,11 @@ different:
 
 1. 9% of current Intermediate (not 12%) have exactly 15 Novice points and no 
 Intermediate points
-2. 40% of current Intermediate points (not 50%) have between 15 and 30 Novice 
+2. 38% of current Intermediate points (not 50%) have between 15 and 30 Novice 
 points and no Intermediate points
 3. When comparing those with 15 Novice points and those with more than 15 
 Novice points, the difference in how often they place 1st-5th at a tier 3 or 
-1st-3rd at a tier 2 in Intermediate is reduced. The p-valu in the other region 
+1st-3rd at a tier 2 in Intermediate is reduced. The p-value in the other region 
 is now 0.068. All regions still trend in the same direction as they did before.
 
 It was also pointed out to me many times that Novices with 15 points currently 
@@ -69,7 +69,7 @@ help, and skilltrade a dance lesson or something.
 (AKA the part where I practice Tableau dashboarding -- try hovering and
 clicking on things! Sorry it loads slowly and also is not mobile-friendly. I tried really hard to fix it, I swear.)
 <iframe src="https://public.tableau.com/views/WSDCProjectPart1/TLDR?:embed=y&:display_count=yes&publish=yes&:toolbar=no&:showVizHome=no"
- width="810" height="1240" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameBorder="0"></iframe>
+ width="810" height="1240" style="-webkit-transform:scale(0.7);-moz-transform-scale(0.7);" frameBorder="0"></iframe>
 
 #### **West Coast Swing**
 ##### (A brief primer for anyone reading this who's not already familiar with West Coast Swing)
