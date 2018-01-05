@@ -1,8 +1,7 @@
 ---
 layout: post
-title: test
+title: WSDC Project Part 1: 2018 Rule Change
 menu: false
-order: 3
 ---
 ## **WSDC Project Part 1: 2018 Rule Change**
 
