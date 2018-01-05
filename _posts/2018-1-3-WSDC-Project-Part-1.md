@@ -14,8 +14,8 @@ Novice or Newcomer point. I also changed my time-by-region graphs to look at
 date of first record (whether Newcomer or Novice, where before the first 
 record was necessarily Novice)
 2. The rule change that modified required Novice points from 20 to 15 happened 
-at the start of 2013. I changed the filter in the section that looks at 
-Novices to include data from 2013 onwards.
+at the start of 2012. I changed the filter in the section that looks at 
+Novices to include data from 2012 onwards.
 
 I applied the changes throughout the R and Tableau; here's a summary of what's 
 different:
@@ -178,15 +178,15 @@ wanted to find out:
     than those with more than 15?
 
 To answer these questions, I looked at only dancers who pointed out of
-Novice after February 2013 (when the point requirement changed from 20 to 15
+Novice after January 2012 (when the point requirement changed from 20 to 15
 points).
 
 ##### **How many dancers will be "demoted" and how many can now choose to dance down?**
 Of people who were previously competing in Intermediate, **157** now
 *must* compete in Novice (unless they submit a petition, which will be 
-automatically approved), and **667** now *have the option* to compete
-in Novice. This represents **9%** and **36%** of current Novice dancers
-or **12%** and **50%** of current Intermediate dancers.
+automatically approved), and **673** now *have the option* to compete
+in Novice. This represents **8%** and **36%** of current Novice dancers
+or **9%** and **38%** of current Intermediate dancers.
 
 I'm pretty surprised by how high these numbers are, actually. I wonder
 how many of these dancers are actually in the presumed target group of
@@ -219,8 +219,8 @@ forward.
 
 It seems that the Midwest has a relatively lower proportion of dancers
 who escape Novice with 15 points exactly. When we Fisher test as we did
-in the previous section, we get a p-value of 0.036 -- this suggests a
-96% confidence that **your likelihood to hit exactly 15 Novice points
+in the previous section, we get a p-value of 0.019 -- this suggests a
+98% confidence that **your likelihood to hit exactly 15 Novice points
 (and thereby be affected by the new Novice requirement) varies based on
 where you live.**
 
