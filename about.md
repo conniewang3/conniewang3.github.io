@@ -11,4 +11,4 @@ In 2014, she received dual B.S.'s from Caltech, in *Bioengineering* and in *Busi
 While her fascination with biomedical science continues, she's itching to learn something new, and currently pursuing knowledge in the field of data science.
 
 ## Contact Me
-[conniewang3@gmail.com](mailto:conniewang3@gmail.com)
+Please use any of the links at the bottom of the sidebar (to the left!) to contact me.
