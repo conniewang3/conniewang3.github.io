@@ -2,6 +2,7 @@
 layout: post
 title: WSDC Project Part 2: Taking Some Requests
 ---
+
 ## **WSDC Project Part 2: Taking Some Requests**
 I feel a little guilty that it's been so long since my first post -- I
 really meant to make these more frequently, but I went like a month and
@@ -36,6 +37,7 @@ After my first post, various people suggested other WSDC-related
 questions they were curious about. Some of them are fairly trivial to
 answer -- these are the ones I've picked for today's post hahah. Thanks to 
 everyone sending me questions!
+
 #### Section 1: Masters Division
 An anonymous Masters dancer brought to my attention to an interesting 
 question: is there any value to splitting the Masters division (those who are 
@@ -48,6 +50,7 @@ into:
 
 1.  The division breakdown of those who actively compete in Masters, and
 2.  The points distribution among Masters competitors.
+
 #### Section 2: Performance Correlates
 Another anonymous dancer asked a couple questions regarding performance in
 later divisions based on performance in earlier divisions, and
@@ -59,9 +62,9 @@ for now:
     division and number of finals it takes to get out of the next
 2.  Correlation between these statistics and when you "stall out"?
 
--   Time to get out of Novice/Intermediate
--   Number of finals to get out of Novice/Intermediate
--   Whether or not you got a 1st before leaving
+    + Time to get out of Novice/Intermediate
+    + Number of finals to get out of Novice/Intermediate
+    + Whether or not you got a 1st before leaving
 
 As in the previous post, we'll be looking at only currently active
 competitors -- defined as those who have gotten at least one point
@@ -153,6 +156,7 @@ competitions that happened after the dancer already qualified for
 All-Star. I wouldn't expect this to have a huge effect on the data
 though, and the correlation is so weak that I doubt this point makes any
 difference in our conclusion.
+
 #### Are there differences between dancers who "stall out" at different divisions?
 
 Another way of evaluating performance is looking at when people "stall
