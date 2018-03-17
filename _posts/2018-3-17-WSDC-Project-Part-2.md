@@ -30,7 +30,7 @@ this:
     to get out of Novice/Intermediate.
 
 <iframe src="https://public.tableau.com/views/WSDCProjectPart2/Dashboard1?:embed=y&:display_count=yes&publish=yes&:toolbar=no&:showVizHome=no"
- width="1100" height="1950" style="-ms-zoom: 0.8; -moz-transform: scale(0.8);-moz-transform-origin: 0 0; -o-transform: scale(0.8); -o-transform-origin: 0 0; -webkit-transform: scale(0.8); -webkit-transform-origin: 0 0;" frameBorder="0"></iframe>
+ width="850" height="1480" style="" frameBorder="0"></iframe>
 ### **Introduction**
 After my first post, various people suggested other WSDC-related
 questions they were curious about. Some of them are fairly trivial to
