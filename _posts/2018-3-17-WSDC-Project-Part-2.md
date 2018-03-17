@@ -12,7 +12,6 @@ more than just the WSDC Registry, and also some different ways of
 looking at the data, but for now, here are the answers to a few
 questions that some people asked me after the previous post
 (\#easywayout).
-
 ### **TL;DR**
 ...So this one really isn't mobile-friendly. Reopen on desktop to view
 the nifty interactive Tableau dashboard, otherwise the text TL;DR is
@@ -31,14 +30,12 @@ this:
     to get out of Novice/Intermediate.
 
 <iframe src="https://public.tableau.com/views/WSDCProjectPart2/Dashboard1?:embed=y&:display_count=yes&publish=yes&:toolbar=no&:showVizHome=no"
- width="1100" height="2000" style="-ms-zoom: 0.75; -moz-transform: scale(0.75);-moz-transform-origin: 0 0; -o-transform: scale(0.75); -o-transform-origin: 0 0; -webkit-transform: scale(0.75); -webkit-transform-origin: 0 0;" frameBorder="0"></iframe>
-
+ width="1100" height="1950" style="-ms-zoom: 0.75; -moz-transform: scale(0.75);-moz-transform-origin: 0 0; -o-transform: scale(0.75); -o-transform-origin: 0 0; -webkit-transform: scale(0.75); -webkit-transform-origin: 0 0;" frameBorder="0"></iframe>
 ### **Introduction**
 After my first post, various people suggested other WSDC-related
 questions they were curious about. Some of them are fairly trivial to
 answer -- these are the ones I've picked for today's post hahah. Thanks to 
 everyone sending me questions!
-
 #### Section 1: Masters Division
 An anonymous Masters dancer brought to my attention to an interesting 
 question: is there any value to splitting the Masters division (those who are 
@@ -51,7 +48,6 @@ into:
 
 1.  The division breakdown of those who actively compete in Masters, and
 2.  The points distribution among Masters competitors.
-
 #### Section 2: Performance Correlates
 Another anonymous dancer asked a couple questions regarding performance in
 later divisions based on performance in earlier divisions, and
@@ -72,7 +68,6 @@ competitors -- defined as those who have gotten at least one point
 within the last 3 years.
 
 Also as in the previous division, all of the code I used is on [Github](https://github.com/conniewang3/WSDC-Project/tree/master/part2).
-
 ### Masters Division
 First, we'll look at how many Masters dancers are in each division.
 Since we don't have age data, the best we can do is to assume that
@@ -138,7 +133,6 @@ dancers and don't think it will be fun to draw a newer dancer (I have no
 evidence for this but could see people thinking this way). Regardless,
 here's the relevant data, to whatever extent it might aid the decisions
 of event directors.
-
 ### Performance Correlates
 #### Does getting out of a division quickly mean you'll get out of later divisions more quickly?
 
@@ -159,7 +153,6 @@ competitions that happened after the dancer already qualified for
 All-Star. I wouldn't expect this to have a huge effect on the data
 though, and the correlation is so weak that I doubt this point makes any
 difference in our conclusion.
-
 #### Are there differences between dancers who "stall out" at different divisions?
 
 Another way of evaluating performance is looking at when people "stall
@@ -185,7 +178,6 @@ it's easy to feel insecure about your dancing, but the 75th percentile
 time is WAY longer than I expected, and the percentage of dancers who
 are "stalled" is also WAY higher than I expected. Maybe some of you are
 in the same boat as me, in which case -- yay, we're doing okay!
-
 #### Comparing "stalled" Intermediate and Advanced dancers with current All-Star dancers.
 
 ![768x480](https://conniewang3.github.io/assets/img/WSDC-part-2/by_division1-1.png)
