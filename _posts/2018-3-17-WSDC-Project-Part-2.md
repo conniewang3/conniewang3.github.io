@@ -31,7 +31,7 @@ this:
     to get out of Novice/Intermediate.
 
 <iframe src="https://public.tableau.com/views/WSDCProjectPart2/Dashboard1?:embed=y&:display_count=yes&publish=yes&:toolbar=no&:showVizHome=no"
- width="820" height="1450" style="-webkit-transform:scale(1);-moz-transform-scale(0.75);" frameBorder="0"></iframe>
+ width="820" height="1450" style="-webkit-transform:scale(0.75);-moz-transform-scale(0.75);" frameBorder="0"></iframe>
 
 ### **Introduction**
 After my first post, various people suggested other WSDC-related
