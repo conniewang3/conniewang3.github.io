@@ -8,7 +8,7 @@ url:                   http://conniedoesdata.com
 
 # IMPORTANT: Set The "base URL" of your site.
 # 
-# When hosting your site in a subdirectory of a server, set to /<name of directory>
+# When hosting your site in a subdirectory of a server, set to /<name of directory> 
 # (with leading /, but without the < >)
 # Use the empty string '' otherwise.
 #
