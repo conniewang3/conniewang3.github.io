@@ -68,9 +68,9 @@ for now:
 
 As in the previous post, we'll be looking at only currently active
 competitors -- defined as those who have gotten at least one point
-within the last 3 years.
-
-Also as in the previous division, all of the code I used is on [Github](https://github.com/conniewang3/WSDC-Project/tree/master/part2).
+within the last 3 years. Data was scraped from the WSDC website mid-February.
+If you want to reproduce these results, the data, scraper, and any other code
+I used for this is on [Github](https://github.com/conniewang3/WSDC-Project/tree/master/part2).
 ### Masters Division
 First, we'll look at how many Masters dancers are in each division.
 Since we don't have age data, the best we can do is to assume that
