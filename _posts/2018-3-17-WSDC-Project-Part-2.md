@@ -32,14 +32,34 @@ this:
 
 <iframe src="https://public.tableau.com/views/WSDCProjectPart2/Dashboard1?:embed=y&:display_count=yes&publish=yes&:toolbar=no&:showVizHome=no"
  width="850" height="1480" style="" frameBorder="0"></iframe>
+
 ### **Introduction**
 After my first post, various people suggested other WSDC-related
 questions they were curious about. Some of them are fairly trivial to
 answer -- these are the ones I've picked for today's post hahah. Thanks to 
 everyone sending me questions!
 
+#### **What's this post about?**
+##### (The section for people who don't dance West Coast Swing and are confused)
+West Coast Swing (WCS) is a versatile partner dance that emphasizes,
+among other things, the ability to create a dance with a partner on the
+spot. There is a competitive aspect of this dance which tests this
+ability; it involves going to weekend-long events and participating in
+Jack & Jills, the main competition format. In a Jack & Jill prelim
+round, each competitor dances 3 times, each time with a different random
+partner to a random song. Judges then select their favorite dancers to
+move on to finals, where competitors are again randomly paired and
+receive a placement depending on how well the judges score each
+partnership. Points are assigned if you final or place according to the
+WSDC rules, and tracked on the WSDC database. There are "leveled"
+competition divisions: Newcomer, Novice, Intermediate, Advanced, and All-Star 
+-- to move up to a higher division, a competitor must earn a certain number
+of points in their division. In addition to these divisions, there's also a 
+Masters division, which allows anyone 50+ years of age to enter, regardless of 
+what leveled division they're in.
+
 #### Section 1: Masters Division
-An anonymous Masters dancer brought to my attention to an interesting 
+An anonymous Masters dancer brought my attention to an interesting 
 question: is there any value to splitting the Masters division (those who are 
 50+ years of age) into "Open Masters" and "Novice Masters", or something of 
 that ilk? Apparently there are some events that are considering this -- my 
