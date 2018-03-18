@@ -211,7 +211,7 @@ competitions, or 2) the dancer doesn't compete very often in the first
 place. In the second case, they probably didn't compete much in Novice
 either, and that's why it took them longer to get out.
 
-![768x480](https://conniewang3.github.io/assets/img/WSDC-part-2/Figs/by_division2-1.png)
+![768x480](https://conniewang3.github.io/assets/img/WSDC-part-2/by_division2-1.png)
 
 There's much less difference in how many finals higher-level dancers
 take to get out of an earlier division. No matter which division a
