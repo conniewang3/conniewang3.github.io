@@ -75,6 +75,7 @@ The results indicate that Bayes testing with early stopping is preferable to hyp
 ![672x480](https://conniewang3.github.io/assets/img/Bayes-part-1/fig-4-early-stop-1.png)
 
 However, we saw earlier that in these cases, Bayes testing had a generally lower type I error rate than hypothesis. So how much does early stopping *worsen* the type I error rate? When we do this comparison, we can see that early stopping impacts Bayes testing just as negatively as it impacts hypothesis testing in most cases!
+
 ![672x480](https://conniewang3.github.io/assets/img/Bayes-part-1/fig-5-early-stop-2.png)
 
 How can we make sense of this result in light of the "does Bayes testing allow for peeking" debate? My take is that both sides are right, kind of. On one hand, Bayes testing never promises any level of Type I error -- all it promises is to give probabilities of distribution based on the information available. How representative of reality is the data that we've collected? -- No idea, and no promises made. So from this perspective, the result of a Bayes test **is** valid no matter how many times you peek at the data. 
